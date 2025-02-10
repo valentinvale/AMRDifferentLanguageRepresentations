@@ -1,0 +1,13 @@
+# CSV and JSONL
+*.csv
+*.jsonl
+
+# /amr_t5_model
+amr_t5_model/
+amr_t5_model_2/
+amr_t5_model_optimized/
+fine_tuned_amr_t5/
+fine_tuned_amr_t5_all_lang/
+fine_tuned_amr_t5_base/
+fine_tuned_amr_welsh/
+screenshots/
